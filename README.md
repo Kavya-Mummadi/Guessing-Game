@@ -66,4 +66,4 @@ Guessing-Game/
 
 This Responsive website is successfully deployed on Vercel for fast, reliable access across devices.
 
-🔗 Live Demo: [https://guessing-game-javascript.vercel.app/]
+🔗 Live Demo: [https://javascript-guessing-game-five.vercel.app/]
